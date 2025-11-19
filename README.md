@@ -1,1 +1,1 @@
-this is just a test project
+please zoom if you are using it in phone
